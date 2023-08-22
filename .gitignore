@@ -1,3 +1,9 @@
+# Personal Info
+data/
+
+#compiled data
+*.js
+
 # Logs
 logs
 *.log
